@@ -8,6 +8,7 @@
 <br>
 <br>
 ### Expected Output:
+
   - Number of rows in the dataset.
   - Top 10 and bottom 10 rows of the dataset.
   - Data types of the columns in the dataset.
