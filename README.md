@@ -25,5 +25,7 @@
 
 **Example image:**
 ![Fortune500 Example Screen 1](/Fortune500-Screen1.png)
+
 <br>
+
 ![Fortune500 Example Screen 1](/Fortune500-Screen2.png)
