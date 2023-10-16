@@ -24,4 +24,4 @@
 <br>
 
 **Example image:**
-![Fortune500 Screen]()
+![Fortune500 Screen](/Fortune500-screen.png)
