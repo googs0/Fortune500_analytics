@@ -1,6 +1,6 @@
-# Fortune 500 Analytics
+## Fortune 500 Analytics
 
-## Download, clean, and analyze data from Fortune 500 companies, extracting key insights and metrics.
+### Download, clean, and analyze data from Fortune 500 companies, extracting key insights and metrics.
 
 - External libraries: Numpy, Pandas, Pydrive
 - Usage: Authenticate with Google Drive -> Data download -> Run script -> Check results
