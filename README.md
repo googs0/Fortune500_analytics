@@ -20,3 +20,8 @@
   - List of all #1 ranked Fortune 500 companies.
   - List of #1 ranked companies after the year 2015.
   - Total revenue by year.
+<br>
+<br>
+
+**Example image:**
+![Fortune500 Screen]()
