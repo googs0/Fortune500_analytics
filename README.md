@@ -7,7 +7,7 @@
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 <br>
 <br>
-### Expected Output:
+**Expected Output:**
 
   - Number of rows in the dataset.
   - Top 10 and bottom 10 rows of the dataset.
