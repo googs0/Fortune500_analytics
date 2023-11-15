@@ -2,7 +2,7 @@
 
 ### Comprehensive Analysis of Fortune 500 Data: Regression, Data Visualization, and Predictive Modeling
 
-#### Usage:
+### Usage:
 
 1. **Load Data**
    - Download and load the Fortune 500 dataset
@@ -18,7 +18,7 @@
   
 <br>
 
-#### External libraries #### 
+### External libraries 
 **Main:** matplotlib, numpy, pandas, requests, seaborn, scikit-learn, scipy, statsmodels
 <br>
 **Test:** pytest, unittest
