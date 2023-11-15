@@ -12,7 +12,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import PolynomialFeatures
 from statsmodels.tsa.seasonal import seasonal_decompose
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG, format='\033[94m%(levelname)s - %(message)s\033[0m')
 
 
 def download_and_load_data(url, local_filename):
@@ -46,10 +46,10 @@ def download_and_load_data(url, local_filename):
 
 
 # URL and local filenames for Fortune 500 data
-raw_url_1 = 'https://github.com/googs0/Fortune500LinearExplorer/raw/main/fortune500.csv'
+raw_url_1 = 'https://github.com/googs0/Fortune500LinearExplorer/raw/main/assets/csv/fortune500.csv'
 local_filename_1 = 'fortune500.csv'
 
-raw_url_2 = 'https://github.com/googs0/Fortune500LinearExplorer/raw/main/fortune500-2005-2021.csv'
+raw_url_2 = 'https://github.com/googs0/Fortune500LinearExplorer/raw/main/assets/csv/fortune500-2005-2021.csv'
 local_filename_2 = 'fortune500-2005-2021.csv'
 
 f500_1 = download_and_load_data(raw_url_1, local_filename_1)
