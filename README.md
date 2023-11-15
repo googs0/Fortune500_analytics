@@ -18,9 +18,9 @@
   
 <br>
 
-#### **External libraries** #### 
-numpy, pandas, pydrive, seaborn, statsmodels, scikit-learn
-
+#### External libraries #### 
+**Main:** matplotlib, numpy, pandas, requests, seaborn, scikit-learn, scipy, statsmodels
+**Test:** pytest, unittest
 
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 <br>
