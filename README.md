@@ -15,6 +15,8 @@
    - Visualize the Fortune 500 revenue trends over time, including the linear regression line
    - Evaluate the regression models and display the results
    - Utilize other analytical techniques and enhance the functionality to meet your specific use case
+  
+<br>
 
 #### **External libraries** #### 
 numpy, pandas, pydrive, seaborn, statsmodels, scikit-learn
