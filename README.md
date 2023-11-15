@@ -4,14 +4,14 @@
 
 ### Usage:
 
-1. **Load Data**
-   - Download and load the Fortune 500 dataset
+1. **Load**
+   - Download and load Fortune 500 data
   
-2. **Clean and Validate Data**
+2. **Clean and Validate**
    - Perform data cleaning to ensure the dataset is ready for analysis
    - Validate the dataset to ensure data integrity and consistency
   
-3. **Analyze and Plot Data**
+3. **Analyze and Plot**
    - Visualize the Fortune 500 revenue trends over time, including the linear regression line
    - Evaluate the regression models and display the results
    - Utilize other analytical techniques and enhance the functionality to meet your specific use case
@@ -20,6 +20,7 @@
 
 ### External libraries 
 **Main:** matplotlib, numpy, pandas, requests, seaborn, scikit-learn, scipy, statsmodels
+
 <br>
 **Test:** pytest, unittest
 
