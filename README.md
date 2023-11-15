@@ -20,7 +20,6 @@
 
 ### External libraries 
 **Main:** matplotlib, numpy, pandas, requests, seaborn, scikit-learn, scipy, statsmodels
-
 <br>
 **Test:** pytest, unittest
 
