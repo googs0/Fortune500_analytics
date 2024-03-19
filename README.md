@@ -24,10 +24,6 @@
 **Test:** pytest, unittest
 
 <br>
-
-##### Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com) #####
-
-<br>
 <br>
 
 **Example images:**
